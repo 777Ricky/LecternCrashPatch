@@ -8,8 +8,6 @@ import org.bukkit.event.inventory.InventoryAction;
 import org.bukkit.event.inventory.InventoryClickEvent;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import java.net.http.WebSocket;
-
 public final class LecternCrashPatch extends JavaPlugin implements Listener {
 
     @Override
