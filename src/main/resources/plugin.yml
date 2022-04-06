@@ -1,0 +1,5 @@
+name: LecternCrashPatch
+version: '${version}'
+main: me.rickylafleur.lecterncrashpatch.LecternCrashPatch
+api-version: 1.17
+authors: [ Ricky ]
